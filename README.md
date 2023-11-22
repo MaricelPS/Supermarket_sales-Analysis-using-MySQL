@@ -3,9 +3,6 @@
 # <h1 align=center>**`SALES ANALYSIS - MySQL`**</h1>
 
 
-<p align='center'>
-<img src = 'https://es.postermywall.com/index.php/posterbuilder/copy/e43b99901aa11fad8aa024c3a84b0d2f' height = 200>
-<p>
 
 ## Project context and description
 
